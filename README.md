@@ -3,6 +3,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
 
 - 🔭 I’m currently working at **Ipê Web** <br>
-- 🌱 I’m currently learning **JavaScript, CSS, HTML** <br>
+- 🌱 I’m currently learning **JavaScript, CSS, HTML and PHP** <br>
 - 🤔 I’m looking for help to learnig more about others programming languages <br>
 - 📫 How to reach me: filharantes@gmail.com 
